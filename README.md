@@ -1,2 +1,4 @@
 # sumOfElements
-This program is added just to document my development as a programmer
+This was an assignment I did in grade 12 to show my understanding of effecttive use of arrays.
+
+Basically you enter random integers into an array one by one then you can choose to see the sum either all, odd or even numbers.
